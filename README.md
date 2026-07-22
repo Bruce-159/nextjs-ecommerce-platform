@@ -2,7 +2,7 @@
 
 一個功能完整的全端電商平台，涵蓋消費者購物流程與管理者後台系統。
 
-> [Live Demo](#)（部署後補上）
+> [Live Demo](https://nookshop.vercel.app)
 > [GitHub Repository](https://github.com/Bruce-159/nextjs-ecommerce-platform)
 
 ## 專案簡介
